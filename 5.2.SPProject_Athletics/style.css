@@ -55,6 +55,10 @@ text-align: right;
 font-family: Roboto, Arial;
 }
 
+.key-text {
+  text-align: left;
+}
+
 #cutline { 
 font-family: Roboto, Arial;
 float: right;
