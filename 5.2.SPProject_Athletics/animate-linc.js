@@ -1,6 +1,6 @@
 function game1(){
     
-    for (var i = 1; i <= 461; i++){
+    for (var i = 1; i <= 460; i++){
         document.getElementById(i).style.fill = "#ffffff";
     }
     
@@ -25,7 +25,7 @@ function game1(){
 
 function game2(){
     
-    for (var i = 1; i <= 461; i++){
+    for (var i = 1; i <= 460; i++){
         document.getElementById(i).style.fill = "#ffffff";
     }
 
@@ -48,7 +48,7 @@ function game2(){
 
 function game3(){
     
-    for (var i = 1; i <= 461; i++){
+    for (var i = 1; i <= 460; i++){
         document.getElementById(i).style.fill = "#ffffff";
     }
 
@@ -71,7 +71,7 @@ function game3(){
 
 function game4(){
     
-    for (var i = 1; i <= 461; i++){
+    for (var i = 1; i <= 460; i++){
         document.getElementById(i).style.fill = "#ffffff";
     }
 
@@ -94,7 +94,7 @@ function game4(){
 
 function game5(){
     
-    for (var i = 1; i <= 461; i++){
+    for (var i = 1; i <= 460; i++){
         document.getElementById(i).style.fill = "#ffffff";
     }
 
@@ -117,7 +117,7 @@ function game5(){
 
 function game6(){
     
-    for (var i = 1; i <= 461; i++){
+    for (var i = 1; i <= 460; i++){
         document.getElementById(i).style.fill = "#ffffff";
     }
 
