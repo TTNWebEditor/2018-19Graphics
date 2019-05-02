@@ -1,49 +1,67 @@
 #text {  text-align: center;
-        font-family: Roboto, Arial;
+    font-family: Roboto, Arial;
 }
 
 #team { font-weight: bold; }
 
 #title { text-align: center; 
-        font-family: Roboto;
-        font-weight: bold;
-        font-size: 30pt;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30pt;
 }
 
 #cherry-swatch {
-  height: 20px;
-  width: 40px;
-  margin: 10px;
-  background-color: #9E1B34;
-  border-radius: 2px;
-  float: right;
+height: 20px;
+width: 40px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 0px;
+margin-bottom: 0px;
+background-color: #9E1B34;
+border-radius: 2px;
+float: right;
 }
 
 #pink-swatch {
-  height: 20px;
-  width: 40px;
-  margin: 10px;
-  background-color: #e5667e;
-  border-radius: 2px;
-  float: right;
+height: 20px;
+width: 40px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 0px;
+margin-bottom: 0px;
+background-color: #e5667e;
+border-radius: 2px;
+float: right;
 }
 
 .legend {
-  margin: 20px;
-  border-color: black;
-  border-width: thin;
-  text-align: right;
-  font-family: Roboto;
+float: right;
+width: 15pc;
+margin: 20px;
+padding: 10px;
+border-color: black;
+border-width: medium;
+border-style: solid;
+text-align: right;
+font-family: Roboto;
 }
 
-.cutline { 
-  font-family: Roboto;
-  text-align: right;
-  width: 20pc;
+#cutline { 
+font-family: Roboto;
+float: right;
+margin-top: 20px;
+margin: 10px;
+clear: none;
 }
 
-.source { 
-  font-family: Roboto;
-  text-align: right;
-  width: 20pc;
+
+#source { 
+font-family: Roboto;
+float: left;
+margin-top: 20px;
+margin: 10px;
+}
+
+#break{
+    height: 225px;
 }
