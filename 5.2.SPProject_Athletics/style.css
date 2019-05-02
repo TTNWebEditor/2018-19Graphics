@@ -9,3 +9,23 @@
         font-weight: bold;
         font-size: 30pt;
 }
+
+#cherry-swatch {
+  height: 10px;
+  width: 20px;
+  background-color: #9E1B34;
+  border-radius: 25px;
+  float: right;
+}
+
+#pink-swatch {
+  height: 10px;
+  width: 20px;
+  background-color: #e5667e;
+  border-radius: 25px;
+  float: right;
+}
+
+.legend {
+  text-align: right;
+}
