@@ -11,21 +11,34 @@
 }
 
 #cherry-swatch {
-  height: 10px;
-  width: 20px;
+  height: 20px;
+  width: 40px;
   background-color: #9E1B34;
-  border-radius: 25px;
+  border-radius: 10px;
   float: right;
 }
 
 #pink-swatch {
-  height: 10px;
-  width: 20px;
+  height: 20px;
+  width: 40px;
   background-color: #e5667e;
-  border-radius: 25px;
+  border-radius: 10px;
   float: right;
 }
 
 .legend {
   text-align: right;
+  font-family: Roboto;
+}
+
+.cutline { 
+  font-family: Roboto;
+  text-align: right;
+  width: 20pc;
+}
+
+.source { 
+  font-family: Roboto;
+  text-align: right;
+  width: 20pc;
 }
