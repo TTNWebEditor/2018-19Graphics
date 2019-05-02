@@ -1,6 +1,10 @@
 
 function game1(){
     
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
+    
     for (var i = 1; i <= 120; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
     }
@@ -21,6 +25,10 @@ function game1(){
 }
 
 function game2(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 93; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
@@ -40,6 +48,10 @@ function game2(){
 }
 
 function game3(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 92; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
@@ -59,6 +71,10 @@ function game3(){
 }
 
 function game4(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 96; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
@@ -78,6 +94,10 @@ function game4(){
 }
 
 function game5(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 97; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
@@ -97,6 +117,10 @@ function game5(){
 }
 
 function game6(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 114; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
@@ -116,6 +140,10 @@ function game6(){
 }
 
 function game7(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 137; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
@@ -135,6 +163,10 @@ function game7(){
 }
 
 function game8(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 168; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
@@ -153,6 +185,10 @@ function game8(){
 }
 
 function game9(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 107; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
@@ -172,6 +208,10 @@ function game9(){
 }
 
 function game10(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 133; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
@@ -191,6 +231,10 @@ function game10(){
 }
 
 function game11(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 123; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
@@ -210,6 +254,10 @@ function game11(){
 }
 
 function game12(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 98; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
@@ -229,6 +277,10 @@ function game12(){
 }
 
 function game13(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 144; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
@@ -248,6 +300,10 @@ function game13(){
 }
 
 function game14(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 142; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
@@ -267,6 +323,10 @@ function game14(){
 }
 
 function game15(){
+    
+    for (var i = 1; i <= 204; i++){
+        document.getElementById("cir-"+i).style.fill = "#ffffff";
+    }
 
     for (var i = 1; i <= 199; i++){
         document.getElementById("cir-"+i).style.fill = "#e5667e";
