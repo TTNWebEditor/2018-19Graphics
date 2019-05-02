@@ -29,6 +29,8 @@
 }
 
 .legend {
+  border-color: black;
+  border-width: thin;
   text-align: right;
   font-family: Roboto;
 }
