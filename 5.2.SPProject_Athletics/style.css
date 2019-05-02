@@ -78,5 +78,6 @@ margin: 10px;
 @media only screen and (max-width: 767px) {
     /* phones */
     .legend { float: none; }
+    .game-info { clear: both; }
 }
 
