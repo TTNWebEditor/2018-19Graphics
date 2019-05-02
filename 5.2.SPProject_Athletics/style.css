@@ -80,7 +80,7 @@ margin: 10px;
     .legend { 
       float: none;
     }
-    .game-info { float: none;
+    .game-info { clear: both;
       margin-left: 15px;
     }
 }
