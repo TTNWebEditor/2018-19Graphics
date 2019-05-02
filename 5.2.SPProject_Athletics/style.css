@@ -13,15 +13,18 @@
 #cherry-swatch {
   height: 20px;
   width: 40px;
+  margin: 10px;
   background-color: #9E1B34;
-  border-radius: 10px;
+  border-radius: 2px;
   float: right;
 }
 
 #pink-swatch {
   height: 20px;
   width: 40px;
+  margin: 10px;
   background-color: #e5667e;
+  border-radius: 2px;
   float: right;
 }
 
