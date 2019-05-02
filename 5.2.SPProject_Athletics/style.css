@@ -10,6 +10,14 @@
     font-size: 30pt;
 }
 
+.game-info {
+    margin-top: 30px;
+    float: left;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
 #cherry-swatch {
 height: 20px;
 width: 40px;
@@ -36,7 +44,7 @@ float: right;
 
 .legend {
 float: right;
-width: 15pc;
+width: 20%;
 margin: 20px;
 padding: 10px;
 border-color: black;
@@ -49,7 +57,7 @@ font-family: Roboto;
 #cutline { 
 font-family: Roboto;
 float: right;
-margin-top: 20px;
+margin-top: 30px;
 margin: 10px;
 clear: none;
 }
@@ -58,10 +66,8 @@ clear: none;
 #source { 
 font-family: Roboto;
 float: left;
-margin-top: 20px;
+margin-top: 30px;
 margin: 10px;
 }
 
-#break{
-    height: 225px;
-}
+
