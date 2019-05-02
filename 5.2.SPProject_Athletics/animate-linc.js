@@ -1,10 +1,10 @@
 function game1(){
     
-    for (var i = 1; i <= 120; i++){
+    for (var i = 1; i <= 216; i++){
         document.getElementById(i).style.fill = "#e5667e";
     }
     
-    for (var i = 1; i <= 25; i++){
+    for (var i = 1; i <= 26; i++){
         document.getElementById(i).style.fill = "#9E1B34";
     }
 
@@ -21,11 +21,11 @@ function game1(){
 
 function game2(){
 
-    for (var i = 1; i <= 93; i++){
+    for (var i = 1; i <= 170; i++){
         document.getElementById(i).style.fill = "#e5667e";
     }
     
-    for (var i = 1; i <= 16; i++){
+    for (var i = 1; i <= 15; i++){
         document.getElementById(i).style.fill = "#9E1B34";
     }
 
@@ -40,11 +40,11 @@ function game2(){
 
 function game3(){
 
-    for (var i = 1; i <= 92; i++){
+    for (var i = 1; i <= 161; i++){
         document.getElementById(i).style.fill = "#e5667e";
     }
     
-    for (var i = 1; i <= 18; i++){
+    for (var i = 1; i <= 14; i++){
         document.getElementById(i).style.fill = "#9E1B34";
     }
 
@@ -59,7 +59,7 @@ function game3(){
 
 function game4(){
 
-    for (var i = 1; i <= 96; i++){
+    for (var i = 1; i <= 178; i++){
         document.getElementById(i).style.fill = "#e5667e";
     }
     
@@ -78,11 +78,11 @@ function game4(){
 
 function game5(){
 
-    for (var i = 1; i <= 97; i++){
+    for (var i = 1; i <= 220; i++){
         document.getElementById(i).style.fill = "#e5667e";
     }
     
-    for (var i = 1; i <= 15; i++){
+    for (var i = 1; i <= 22; i++){
         document.getElementById(i).style.fill = "#9E1B34";
     }
 
@@ -97,11 +97,11 @@ function game5(){
 
 function game6(){
 
-    for (var i = 1; i <= 114; i++){
+    for (var i = 1; i <= 194; i++){
         document.getElementById(i).style.fill = "#e5667e";
     }
     
-    for (var i = 1; i <= 5; i++){
+    for (var i = 1; i <= 3; i++){
         document.getElementById(i).style.fill = "#9E1B34";
     }
 
